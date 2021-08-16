@@ -1,0 +1,18 @@
+body {
+    background-color: #c4f566;
+}
+
+.color-1 {
+    background-color: coral;
+    color: black;
+}
+
+.color-2 {
+    background-color: rgb(53, 109, 231);
+    color: rgb(255, 255, 255);
+}
+
+.tamanio {
+    height: 40px;
+    width: 100px;
+}
